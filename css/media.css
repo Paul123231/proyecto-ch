@@ -1,0 +1,39 @@
+@media (max-width: 500px) {
+
+  .home__title--primary,
+  .home__title--secondary {
+    font-size: 200%;
+  }
+
+  .home .home__title {
+    font-size: 200%;
+  }
+
+  .home .home__profile {
+    height: 200px;
+  } 
+
+  .home {
+    min-height: 100vh;
+    display: block;
+    padding: 30px;
+    justify-content: center;
+    align-items: center;
+    background: rgba(0, 0, 0, 0.5);
+    position: relative;
+ }
+
+  .relleno {
+    width: 170%;
+    padding: 10px 0px;
+  }
+
+  .grid {
+    width: 70%;
+  }
+
+  .buton {
+    margin-bottom: 10px;
+  }
+
+}
