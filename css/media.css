@@ -36,4 +36,14 @@
     margin-bottom: 10px;
   }
 
+  .flexbox__img {
+    width: 70%;
+    padding: 30px;
+  }
+
+  .flexbox .flexbox__parrafo {
+    margin: 0px 30px; 
+
+  }
+
 }
